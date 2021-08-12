@@ -1,9 +1,9 @@
 ## I'm José Wellington
 
 <div>
-  <a href="https://github.com/SrWelzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrWelzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrWelzx&layout=compact&langs_count=16&theme=tokyonight" />
+  <a href="https://github.com/jwellingt0n">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwellingt0n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwellingt0n&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 <div style="display: inline-block"><br>
