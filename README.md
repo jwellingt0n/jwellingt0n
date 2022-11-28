@@ -7,7 +7,6 @@
 </div>
 
 <div style="display: inline-block"><br>
-    <img align="center" alt="Wellington-Java" height="28" width="73" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="Wellington-CSharp" height="28" width="73" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
